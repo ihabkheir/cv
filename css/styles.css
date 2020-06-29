@@ -1,0 +1,36 @@
+body {
+  background-color: #cff6cf;
+
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 6px;
+border-color: grey;
+width: 5%;
+}
+h3 {
+  color: #0fabbc;
+  font-family: cursive;
+  font-size: 20px;
+  line-height: 2;
+  font-weight: normal;
+}
+h1 {
+  color: #0fabbc;
+  font-family: cursive;
+  font-size: 30px;
+  line-height: 3;
+  font-weight: normal;
+}
+.work-profile {
+  width: 70%;
+  line-height: 2;
+
+}
+.Experiences {
+width: 80%}
+
+td {
+  line-height: 2;
+}
